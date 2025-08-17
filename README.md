@@ -10,11 +10,31 @@ A Python project to extract, analyze, and visualize election results across cons
 
 This project collects election results from various sources, processes them, and provides useful summaries such as winners, runners-up, NOTA counts, and vote percentages.  
 
-Key features:
-- Extract election data from multiple formats (CSV, JSON, HTML).
-- Summarize results by constituency, state, or party.
-- Generate visualizations like bar charts and maps.
-- Easy-to-use command-line interface and modular Python scripts.
+Key Features
+
+- **Comprehensive Election Data Scraping**  
+  Automatically scrape and save candidate-wise results and full-page screenshots from the official election results portal for all parliamentary constituencies across India.
+
+- **Structured Data Extraction**  
+  Parse raw text data to extract candidate names, parties, votes, and status (Won/Lost/NOTA), and save it into a clean, analysis-ready CSV file.
+
+- **Interactive Dashboard**  
+  Explore election results through a user-friendly Streamlit dashboard with dynamic filters for State/UT and Party.
+
+- **Visual Insights**  
+  - Bar charts for top candidates by votes  
+  - Pie charts for party-wise vote share  
+  - State-wise seat wins  
+  - Constituency-level vote distributions with winner, runner-up, and NOTA breakdown
+
+- **Detailed Candidate Analysis**  
+  View detailed candidate-wise results per constituency, including total votes, margins, and rankings.
+
+- **Cross-platform Compatibility**  
+  Works with Python 3.9+ and supports automated Chrome WebDriver setup via `webdriver-manager`.
+
+- **Logs & Screenshots**  
+  Automatically saves logs of processed constituencies and screenshots of result pages for reference or verification.
 
 ---
 
@@ -28,16 +48,14 @@ Key features:
 
 Here’s an example of the output you can get from this project:
 
-![Sample Output](path/to/screenshot.png)  
+![Dashboard Screenshot](example-screenshots/dashboard.png)  
 
-> Replace with actual screenshots or GIFs of your project output if available.
 
 ---
 
 ## Installation
 
 ### Requirements
-- Python 3.9+
 - pandas
 - requests
 - matplotlib
@@ -46,7 +64,7 @@ Here’s an example of the output you can get from this project:
 ### Steps
 1. Clone the repository:
 ```bash
-git clone git@gitlab.com:ajayygadam/electionresult.git
+git clone git@gitlab.com:cln35h/electionresult.git
 
 ```
 
