@@ -1,5 +1,3 @@
-
-
 # Election Result Analyzer
 
 A Python project to extract, analyze, and visualize election results across constituencies and states. This dashboard is designed for researchers, political analysts, and enthusiasts who want quick access to insights from election data.
