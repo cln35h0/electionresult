@@ -87,7 +87,7 @@ pip install -r requirements.txt
 
 ## Support
 
-If you encounter any issues, please open an issue on GitLab: [Issues](https://gitlab.com/ajayygadam/electionresult/-/issues)
+If you encounter any issues, please send [Mail regarding any issues](mailto:journal.cln35h@gmail.com)
 
 ----------
 
