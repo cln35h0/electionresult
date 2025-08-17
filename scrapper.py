@@ -68,8 +68,8 @@ def process_constituency(code_type, state_code, constituency_number):
         return False, f"[SKIP] {url} - {e}"
 
 # Define state and union territory ranges
-state_range = range(1, 30)   # S01 to S29
-ut_range = range(1, 10)      # U01 to U09
+state_range = range(1, 30)
+ut_range = range(1, 10)
 
 results = []
 start_time = time.time()

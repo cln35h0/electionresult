@@ -77,4 +77,4 @@ for filename in os.listdir(folder):
 df = pd.DataFrame(data)
 df.to_csv("results.csv", index=False, encoding="utf-8-sig")
 
-print("Extracted", len(df), "rows into all_results.csv")
+print("Extracted", len(df), "rows into results.csv")
