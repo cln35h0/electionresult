@@ -88,7 +88,7 @@ pip install -r requirements.txt
 
 ## Support
 
-If you encounter any issues, please send [Mail regarding any issues](mailto:journal.cln35h@gmail.com)
+If you encounter any issues, please send an email regarding them to [journal.cln35h@gmail.com](mailto:journal.cln35h@gmail.com).
 
 ----------
 
