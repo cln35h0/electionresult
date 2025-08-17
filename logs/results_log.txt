@@ -1,0 +1,657 @@
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S011.htm -> saved_pages\S011.txt, screenshots\S011.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S012.htm -> saved_pages\S012.txt, screenshots\S012.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S013.htm -> saved_pages\S013.txt, screenshots\S013.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S014.htm -> saved_pages\S014.txt, screenshots\S014.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S015.htm -> saved_pages\S015.txt, screenshots\S015.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S016.htm -> saved_pages\S016.txt, screenshots\S016.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S017.htm -> saved_pages\S017.txt, screenshots\S017.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S018.htm -> saved_pages\S018.txt, screenshots\S018.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S019.htm -> saved_pages\S019.txt, screenshots\S019.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S0110.htm -> saved_pages\S0110.txt, screenshots\S0110.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S0111.htm -> saved_pages\S0111.txt, screenshots\S0111.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S0112.htm -> saved_pages\S0112.txt, screenshots\S0112.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S0113.htm -> saved_pages\S0113.txt, screenshots\S0113.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S0114.htm -> saved_pages\S0114.txt, screenshots\S0114.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S0115.htm -> saved_pages\S0115.txt, screenshots\S0115.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S0116.htm -> saved_pages\S0116.txt, screenshots\S0116.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S0117.htm -> saved_pages\S0117.txt, screenshots\S0117.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S0118.htm -> saved_pages\S0118.txt, screenshots\S0118.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S0119.htm -> saved_pages\S0119.txt, screenshots\S0119.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S0120.htm -> saved_pages\S0120.txt, screenshots\S0120.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S0121.htm -> saved_pages\S0121.txt, screenshots\S0121.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S0122.htm -> saved_pages\S0122.txt, screenshots\S0122.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S0123.htm -> saved_pages\S0123.txt, screenshots\S0123.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S0124.htm -> saved_pages\S0124.txt, screenshots\S0124.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S0125.htm -> saved_pages\S0125.txt, screenshots\S0125.png
+[SKIP] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S0126.htm - 404 Not Found
+[SKIP] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S0127.htm - 404 Not Found
+[SKIP] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S0128.htm - 404 Not Found
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S021.htm -> saved_pages\S021.txt, screenshots\S021.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S022.htm -> saved_pages\S022.txt, screenshots\S022.png
+[SKIP] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S023.htm - 404 Not Found
+[SKIP] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S024.htm - 404 Not Found
+[SKIP] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S025.htm - 404 Not Found
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S031.htm -> saved_pages\S031.txt, screenshots\S031.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S032.htm -> saved_pages\S032.txt, screenshots\S032.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S033.htm -> saved_pages\S033.txt, screenshots\S033.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S034.htm -> saved_pages\S034.txt, screenshots\S034.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S035.htm -> saved_pages\S035.txt, screenshots\S035.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S036.htm -> saved_pages\S036.txt, screenshots\S036.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S037.htm -> saved_pages\S037.txt, screenshots\S037.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S038.htm -> saved_pages\S038.txt, screenshots\S038.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S039.htm -> saved_pages\S039.txt, screenshots\S039.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S0310.htm -> saved_pages\S0310.txt, screenshots\S0310.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S0311.htm -> saved_pages\S0311.txt, screenshots\S0311.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S0312.htm -> saved_pages\S0312.txt, screenshots\S0312.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S0313.htm -> saved_pages\S0313.txt, screenshots\S0313.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S0314.htm -> saved_pages\S0314.txt, screenshots\S0314.png
+[SKIP] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S0315.htm - 404 Not Found
+[SKIP] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S0316.htm - 404 Not Found
+[SKIP] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S0317.htm - 404 Not Found
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S041.htm -> saved_pages\S041.txt, screenshots\S041.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S042.htm -> saved_pages\S042.txt, screenshots\S042.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S043.htm -> saved_pages\S043.txt, screenshots\S043.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S044.htm -> saved_pages\S044.txt, screenshots\S044.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S045.htm -> saved_pages\S045.txt, screenshots\S045.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S046.htm -> saved_pages\S046.txt, screenshots\S046.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S047.htm -> saved_pages\S047.txt, screenshots\S047.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S048.htm -> saved_pages\S048.txt, screenshots\S048.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S049.htm -> saved_pages\S049.txt, screenshots\S049.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S0410.htm -> saved_pages\S0410.txt, screenshots\S0410.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S0411.htm -> saved_pages\S0411.txt, screenshots\S0411.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S0412.htm -> saved_pages\S0412.txt, screenshots\S0412.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S0413.htm -> saved_pages\S0413.txt, screenshots\S0413.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S0414.htm -> saved_pages\S0414.txt, screenshots\S0414.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S0415.htm -> saved_pages\S0415.txt, screenshots\S0415.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S0416.htm -> saved_pages\S0416.txt, screenshots\S0416.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S0417.htm -> saved_pages\S0417.txt, screenshots\S0417.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S0418.htm -> saved_pages\S0418.txt, screenshots\S0418.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S0419.htm -> saved_pages\S0419.txt, screenshots\S0419.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S0420.htm -> saved_pages\S0420.txt, screenshots\S0420.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S0421.htm -> saved_pages\S0421.txt, screenshots\S0421.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S0422.htm -> saved_pages\S0422.txt, screenshots\S0422.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S0423.htm -> saved_pages\S0423.txt, screenshots\S0423.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S0424.htm -> saved_pages\S0424.txt, screenshots\S0424.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S0425.htm -> saved_pages\S0425.txt, screenshots\S0425.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S0426.htm -> saved_pages\S0426.txt, screenshots\S0426.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S0427.htm -> saved_pages\S0427.txt, screenshots\S0427.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S0428.htm -> saved_pages\S0428.txt, screenshots\S0428.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S0429.htm -> saved_pages\S0429.txt, screenshots\S0429.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S0430.htm -> saved_pages\S0430.txt, screenshots\S0430.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S0431.htm -> saved_pages\S0431.txt, screenshots\S0431.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S0432.htm -> saved_pages\S0432.txt, screenshots\S0432.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S0433.htm -> saved_pages\S0433.txt, screenshots\S0433.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S0434.htm -> saved_pages\S0434.txt, screenshots\S0434.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S0435.htm -> saved_pages\S0435.txt, screenshots\S0435.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S0436.htm -> saved_pages\S0436.txt, screenshots\S0436.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S0437.htm -> saved_pages\S0437.txt, screenshots\S0437.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S0438.htm -> saved_pages\S0438.txt, screenshots\S0438.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S0439.htm -> saved_pages\S0439.txt, screenshots\S0439.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S0440.htm -> saved_pages\S0440.txt, screenshots\S0440.png
+[SKIP] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S0441.htm - 404 Not Found
+[SKIP] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S0442.htm - 404 Not Found
+[SKIP] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S0443.htm - 404 Not Found
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S051.htm -> saved_pages\S051.txt, screenshots\S051.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S052.htm -> saved_pages\S052.txt, screenshots\S052.png
+[SKIP] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S053.htm - 404 Not Found
+[SKIP] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S054.htm - 404 Not Found
+[SKIP] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S055.htm - 404 Not Found
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S061.htm -> saved_pages\S061.txt, screenshots\S061.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S062.htm -> saved_pages\S062.txt, screenshots\S062.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S063.htm -> saved_pages\S063.txt, screenshots\S063.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S064.htm -> saved_pages\S064.txt, screenshots\S064.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S065.htm -> saved_pages\S065.txt, screenshots\S065.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S066.htm -> saved_pages\S066.txt, screenshots\S066.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S067.htm -> saved_pages\S067.txt, screenshots\S067.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S068.htm -> saved_pages\S068.txt, screenshots\S068.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S069.htm -> saved_pages\S069.txt, screenshots\S069.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S0610.htm -> saved_pages\S0610.txt, screenshots\S0610.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S0611.htm -> saved_pages\S0611.txt, screenshots\S0611.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S0612.htm -> saved_pages\S0612.txt, screenshots\S0612.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S0613.htm -> saved_pages\S0613.txt, screenshots\S0613.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S0614.htm -> saved_pages\S0614.txt, screenshots\S0614.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S0615.htm -> saved_pages\S0615.txt, screenshots\S0615.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S0616.htm -> saved_pages\S0616.txt, screenshots\S0616.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S0617.htm -> saved_pages\S0617.txt, screenshots\S0617.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S0618.htm -> saved_pages\S0618.txt, screenshots\S0618.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S0619.htm -> saved_pages\S0619.txt, screenshots\S0619.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S0620.htm -> saved_pages\S0620.txt, screenshots\S0620.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S0621.htm -> saved_pages\S0621.txt, screenshots\S0621.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S0622.htm -> saved_pages\S0622.txt, screenshots\S0622.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S0623.htm -> saved_pages\S0623.txt, screenshots\S0623.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S0624.htm -> saved_pages\S0624.txt, screenshots\S0624.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S0625.htm -> saved_pages\S0625.txt, screenshots\S0625.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S0626.htm -> saved_pages\S0626.txt, screenshots\S0626.png
+[SKIP] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S0627.htm - 404 Not Found
+[SKIP] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S0628.htm - 404 Not Found
+[SKIP] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S0629.htm - 404 Not Found
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S071.htm -> saved_pages\S071.txt, screenshots\S071.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S072.htm -> saved_pages\S072.txt, screenshots\S072.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S073.htm -> saved_pages\S073.txt, screenshots\S073.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S074.htm -> saved_pages\S074.txt, screenshots\S074.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S075.htm -> saved_pages\S075.txt, screenshots\S075.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S076.htm -> saved_pages\S076.txt, screenshots\S076.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S077.htm -> saved_pages\S077.txt, screenshots\S077.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S078.htm -> saved_pages\S078.txt, screenshots\S078.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S079.htm -> saved_pages\S079.txt, screenshots\S079.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S0710.htm -> saved_pages\S0710.txt, screenshots\S0710.png
+[SKIP] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S0711.htm - 404 Not Found
+[SKIP] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S0712.htm - 404 Not Found
+[SKIP] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S0713.htm - 404 Not Found
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S081.htm -> saved_pages\S081.txt, screenshots\S081.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S082.htm -> saved_pages\S082.txt, screenshots\S082.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S083.htm -> saved_pages\S083.txt, screenshots\S083.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S084.htm -> saved_pages\S084.txt, screenshots\S084.png
+[SKIP] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S085.htm - 404 Not Found
+[SKIP] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S086.htm - 404 Not Found
+[SKIP] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S087.htm - 404 Not Found
+[SKIP] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S091.htm - 404 Not Found
+[SKIP] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S092.htm - 404 Not Found
+[SKIP] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S093.htm - 404 Not Found
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S101.htm -> saved_pages\S101.txt, screenshots\S101.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S102.htm -> saved_pages\S102.txt, screenshots\S102.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S103.htm -> saved_pages\S103.txt, screenshots\S103.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S104.htm -> saved_pages\S104.txt, screenshots\S104.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S105.htm -> saved_pages\S105.txt, screenshots\S105.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S106.htm -> saved_pages\S106.txt, screenshots\S106.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S107.htm -> saved_pages\S107.txt, screenshots\S107.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S108.htm -> saved_pages\S108.txt, screenshots\S108.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S109.htm -> saved_pages\S109.txt, screenshots\S109.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S1010.htm -> saved_pages\S1010.txt, screenshots\S1010.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S1011.htm -> saved_pages\S1011.txt, screenshots\S1011.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S1012.htm -> saved_pages\S1012.txt, screenshots\S1012.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S1013.htm -> saved_pages\S1013.txt, screenshots\S1013.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S1014.htm -> saved_pages\S1014.txt, screenshots\S1014.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S1015.htm -> saved_pages\S1015.txt, screenshots\S1015.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S1016.htm -> saved_pages\S1016.txt, screenshots\S1016.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S1017.htm -> saved_pages\S1017.txt, screenshots\S1017.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S1018.htm -> saved_pages\S1018.txt, screenshots\S1018.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S1019.htm -> saved_pages\S1019.txt, screenshots\S1019.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S1020.htm -> saved_pages\S1020.txt, screenshots\S1020.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S1021.htm -> saved_pages\S1021.txt, screenshots\S1021.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S1022.htm -> saved_pages\S1022.txt, screenshots\S1022.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S1023.htm -> saved_pages\S1023.txt, screenshots\S1023.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S1024.htm -> saved_pages\S1024.txt, screenshots\S1024.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S1025.htm -> saved_pages\S1025.txt, screenshots\S1025.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S1026.htm -> saved_pages\S1026.txt, screenshots\S1026.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S1027.htm -> saved_pages\S1027.txt, screenshots\S1027.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S1028.htm -> saved_pages\S1028.txt, screenshots\S1028.png
+[SKIP] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S1029.htm - 404 Not Found
+[SKIP] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S1030.htm - 404 Not Found
+[SKIP] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S1031.htm - 404 Not Found
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S111.htm -> saved_pages\S111.txt, screenshots\S111.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S112.htm -> saved_pages\S112.txt, screenshots\S112.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S113.htm -> saved_pages\S113.txt, screenshots\S113.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S114.htm -> saved_pages\S114.txt, screenshots\S114.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S115.htm -> saved_pages\S115.txt, screenshots\S115.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S116.htm -> saved_pages\S116.txt, screenshots\S116.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S117.htm -> saved_pages\S117.txt, screenshots\S117.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S118.htm -> saved_pages\S118.txt, screenshots\S118.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S119.htm -> saved_pages\S119.txt, screenshots\S119.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S1110.htm -> saved_pages\S1110.txt, screenshots\S1110.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S1111.htm -> saved_pages\S1111.txt, screenshots\S1111.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S1112.htm -> saved_pages\S1112.txt, screenshots\S1112.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S1113.htm -> saved_pages\S1113.txt, screenshots\S1113.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S1114.htm -> saved_pages\S1114.txt, screenshots\S1114.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S1115.htm -> saved_pages\S1115.txt, screenshots\S1115.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S1116.htm -> saved_pages\S1116.txt, screenshots\S1116.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S1117.htm -> saved_pages\S1117.txt, screenshots\S1117.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S1118.htm -> saved_pages\S1118.txt, screenshots\S1118.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S1119.htm -> saved_pages\S1119.txt, screenshots\S1119.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S1120.htm -> saved_pages\S1120.txt, screenshots\S1120.png
+[SKIP] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S1121.htm - 404 Not Found
+[SKIP] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S1122.htm - 404 Not Found
+[SKIP] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S1123.htm - 404 Not Found
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S121.htm -> saved_pages\S121.txt, screenshots\S121.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S122.htm -> saved_pages\S122.txt, screenshots\S122.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S123.htm -> saved_pages\S123.txt, screenshots\S123.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S124.htm -> saved_pages\S124.txt, screenshots\S124.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S125.htm -> saved_pages\S125.txt, screenshots\S125.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S126.htm -> saved_pages\S126.txt, screenshots\S126.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S127.htm -> saved_pages\S127.txt, screenshots\S127.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S128.htm -> saved_pages\S128.txt, screenshots\S128.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S129.htm -> saved_pages\S129.txt, screenshots\S129.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S1210.htm -> saved_pages\S1210.txt, screenshots\S1210.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S1211.htm -> saved_pages\S1211.txt, screenshots\S1211.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S1212.htm -> saved_pages\S1212.txt, screenshots\S1212.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S1213.htm -> saved_pages\S1213.txt, screenshots\S1213.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S1214.htm -> saved_pages\S1214.txt, screenshots\S1214.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S1215.htm -> saved_pages\S1215.txt, screenshots\S1215.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S1216.htm -> saved_pages\S1216.txt, screenshots\S1216.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S1217.htm -> saved_pages\S1217.txt, screenshots\S1217.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S1218.htm -> saved_pages\S1218.txt, screenshots\S1218.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S1219.htm -> saved_pages\S1219.txt, screenshots\S1219.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S1220.htm -> saved_pages\S1220.txt, screenshots\S1220.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S1221.htm -> saved_pages\S1221.txt, screenshots\S1221.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S1222.htm -> saved_pages\S1222.txt, screenshots\S1222.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S1223.htm -> saved_pages\S1223.txt, screenshots\S1223.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S1224.htm -> saved_pages\S1224.txt, screenshots\S1224.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S1225.htm -> saved_pages\S1225.txt, screenshots\S1225.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S1226.htm -> saved_pages\S1226.txt, screenshots\S1226.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S1227.htm -> saved_pages\S1227.txt, screenshots\S1227.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S1228.htm -> saved_pages\S1228.txt, screenshots\S1228.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S1229.htm -> saved_pages\S1229.txt, screenshots\S1229.png
+[SKIP] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S1230.htm - 404 Not Found
+[SKIP] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S1231.htm - 404 Not Found
+[SKIP] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S1232.htm - 404 Not Found
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S131.htm -> saved_pages\S131.txt, screenshots\S131.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S132.htm -> saved_pages\S132.txt, screenshots\S132.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S133.htm -> saved_pages\S133.txt, screenshots\S133.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S134.htm -> saved_pages\S134.txt, screenshots\S134.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S135.htm -> saved_pages\S135.txt, screenshots\S135.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S136.htm -> saved_pages\S136.txt, screenshots\S136.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S137.htm -> saved_pages\S137.txt, screenshots\S137.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S138.htm -> saved_pages\S138.txt, screenshots\S138.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S139.htm -> saved_pages\S139.txt, screenshots\S139.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S1310.htm -> saved_pages\S1310.txt, screenshots\S1310.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S1311.htm -> saved_pages\S1311.txt, screenshots\S1311.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S1312.htm -> saved_pages\S1312.txt, screenshots\S1312.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S1313.htm -> saved_pages\S1313.txt, screenshots\S1313.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S1314.htm -> saved_pages\S1314.txt, screenshots\S1314.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S1315.htm -> saved_pages\S1315.txt, screenshots\S1315.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S1316.htm -> saved_pages\S1316.txt, screenshots\S1316.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S1317.htm -> saved_pages\S1317.txt, screenshots\S1317.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S1318.htm -> saved_pages\S1318.txt, screenshots\S1318.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S1319.htm -> saved_pages\S1319.txt, screenshots\S1319.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S1320.htm -> saved_pages\S1320.txt, screenshots\S1320.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S1321.htm -> saved_pages\S1321.txt, screenshots\S1321.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S1322.htm -> saved_pages\S1322.txt, screenshots\S1322.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S1323.htm -> saved_pages\S1323.txt, screenshots\S1323.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S1324.htm -> saved_pages\S1324.txt, screenshots\S1324.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S1325.htm -> saved_pages\S1325.txt, screenshots\S1325.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S1326.htm -> saved_pages\S1326.txt, screenshots\S1326.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S1327.htm -> saved_pages\S1327.txt, screenshots\S1327.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S1328.htm -> saved_pages\S1328.txt, screenshots\S1328.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S1329.htm -> saved_pages\S1329.txt, screenshots\S1329.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S1330.htm -> saved_pages\S1330.txt, screenshots\S1330.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S1331.htm -> saved_pages\S1331.txt, screenshots\S1331.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S1332.htm -> saved_pages\S1332.txt, screenshots\S1332.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S1333.htm -> saved_pages\S1333.txt, screenshots\S1333.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S1334.htm -> saved_pages\S1334.txt, screenshots\S1334.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S1335.htm -> saved_pages\S1335.txt, screenshots\S1335.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S1336.htm -> saved_pages\S1336.txt, screenshots\S1336.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S1337.htm -> saved_pages\S1337.txt, screenshots\S1337.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S1338.htm -> saved_pages\S1338.txt, screenshots\S1338.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S1339.htm -> saved_pages\S1339.txt, screenshots\S1339.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S1340.htm -> saved_pages\S1340.txt, screenshots\S1340.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S1341.htm -> saved_pages\S1341.txt, screenshots\S1341.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S1342.htm -> saved_pages\S1342.txt, screenshots\S1342.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S1343.htm -> saved_pages\S1343.txt, screenshots\S1343.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S1344.htm -> saved_pages\S1344.txt, screenshots\S1344.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S1345.htm -> saved_pages\S1345.txt, screenshots\S1345.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S1346.htm -> saved_pages\S1346.txt, screenshots\S1346.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S1347.htm -> saved_pages\S1347.txt, screenshots\S1347.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S1348.htm -> saved_pages\S1348.txt, screenshots\S1348.png
+[SKIP] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S1349.htm - 404 Not Found
+[SKIP] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S1350.htm - 404 Not Found
+[SKIP] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S1351.htm - 404 Not Found
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S141.htm -> saved_pages\S141.txt, screenshots\S141.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S142.htm -> saved_pages\S142.txt, screenshots\S142.png
+[SKIP] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S143.htm - 404 Not Found
+[SKIP] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S144.htm - 404 Not Found
+[SKIP] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S145.htm - 404 Not Found
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S151.htm -> saved_pages\S151.txt, screenshots\S151.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S152.htm -> saved_pages\S152.txt, screenshots\S152.png
+[SKIP] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S153.htm - 404 Not Found
+[SKIP] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S154.htm - 404 Not Found
+[SKIP] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S155.htm - 404 Not Found
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S161.htm -> saved_pages\S161.txt, screenshots\S161.png
+[SKIP] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S162.htm - 404 Not Found
+[SKIP] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S163.htm - 404 Not Found
+[SKIP] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S164.htm - 404 Not Found
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S171.htm -> saved_pages\S171.txt, screenshots\S171.png
+[SKIP] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S172.htm - 404 Not Found
+[SKIP] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S173.htm - 404 Not Found
+[SKIP] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S174.htm - 404 Not Found
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S181.htm -> saved_pages\S181.txt, screenshots\S181.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S182.htm -> saved_pages\S182.txt, screenshots\S182.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S183.htm -> saved_pages\S183.txt, screenshots\S183.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S184.htm -> saved_pages\S184.txt, screenshots\S184.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S185.htm -> saved_pages\S185.txt, screenshots\S185.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S186.htm -> saved_pages\S186.txt, screenshots\S186.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S187.htm -> saved_pages\S187.txt, screenshots\S187.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S188.htm -> saved_pages\S188.txt, screenshots\S188.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S189.htm -> saved_pages\S189.txt, screenshots\S189.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S1810.htm -> saved_pages\S1810.txt, screenshots\S1810.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S1811.htm -> saved_pages\S1811.txt, screenshots\S1811.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S1812.htm -> saved_pages\S1812.txt, screenshots\S1812.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S1813.htm -> saved_pages\S1813.txt, screenshots\S1813.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S1814.htm -> saved_pages\S1814.txt, screenshots\S1814.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S1815.htm -> saved_pages\S1815.txt, screenshots\S1815.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S1816.htm -> saved_pages\S1816.txt, screenshots\S1816.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S1817.htm -> saved_pages\S1817.txt, screenshots\S1817.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S1818.htm -> saved_pages\S1818.txt, screenshots\S1818.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S1819.htm -> saved_pages\S1819.txt, screenshots\S1819.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S1820.htm -> saved_pages\S1820.txt, screenshots\S1820.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S1821.htm -> saved_pages\S1821.txt, screenshots\S1821.png
+[SKIP] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S1822.htm - 404 Not Found
+[SKIP] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S1823.htm - 404 Not Found
+[SKIP] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S1824.htm - 404 Not Found
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S191.htm -> saved_pages\S191.txt, screenshots\S191.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S192.htm -> saved_pages\S192.txt, screenshots\S192.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S193.htm -> saved_pages\S193.txt, screenshots\S193.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S194.htm -> saved_pages\S194.txt, screenshots\S194.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S195.htm -> saved_pages\S195.txt, screenshots\S195.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S196.htm -> saved_pages\S196.txt, screenshots\S196.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S197.htm -> saved_pages\S197.txt, screenshots\S197.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S198.htm -> saved_pages\S198.txt, screenshots\S198.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S199.htm -> saved_pages\S199.txt, screenshots\S199.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S1910.htm -> saved_pages\S1910.txt, screenshots\S1910.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S1911.htm -> saved_pages\S1911.txt, screenshots\S1911.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S1912.htm -> saved_pages\S1912.txt, screenshots\S1912.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S1913.htm -> saved_pages\S1913.txt, screenshots\S1913.png
+[SKIP] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S1914.htm - 404 Not Found
+[SKIP] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S1915.htm - 404 Not Found
+[SKIP] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S1916.htm - 404 Not Found
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S201.htm -> saved_pages\S201.txt, screenshots\S201.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S202.htm -> saved_pages\S202.txt, screenshots\S202.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S203.htm -> saved_pages\S203.txt, screenshots\S203.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S204.htm -> saved_pages\S204.txt, screenshots\S204.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S205.htm -> saved_pages\S205.txt, screenshots\S205.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S206.htm -> saved_pages\S206.txt, screenshots\S206.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S207.htm -> saved_pages\S207.txt, screenshots\S207.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S208.htm -> saved_pages\S208.txt, screenshots\S208.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S209.htm -> saved_pages\S209.txt, screenshots\S209.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S2010.htm -> saved_pages\S2010.txt, screenshots\S2010.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S2011.htm -> saved_pages\S2011.txt, screenshots\S2011.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S2012.htm -> saved_pages\S2012.txt, screenshots\S2012.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S2013.htm -> saved_pages\S2013.txt, screenshots\S2013.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S2014.htm -> saved_pages\S2014.txt, screenshots\S2014.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S2015.htm -> saved_pages\S2015.txt, screenshots\S2015.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S2016.htm -> saved_pages\S2016.txt, screenshots\S2016.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S2017.htm -> saved_pages\S2017.txt, screenshots\S2017.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S2018.htm -> saved_pages\S2018.txt, screenshots\S2018.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S2019.htm -> saved_pages\S2019.txt, screenshots\S2019.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S2020.htm -> saved_pages\S2020.txt, screenshots\S2020.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S2021.htm -> saved_pages\S2021.txt, screenshots\S2021.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S2022.htm -> saved_pages\S2022.txt, screenshots\S2022.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S2023.htm -> saved_pages\S2023.txt, screenshots\S2023.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S2024.htm -> saved_pages\S2024.txt, screenshots\S2024.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S2025.htm -> saved_pages\S2025.txt, screenshots\S2025.png
+[SKIP] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S2026.htm - 404 Not Found
+[SKIP] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S2027.htm - 404 Not Found
+[SKIP] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S2028.htm - 404 Not Found
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S211.htm -> saved_pages\S211.txt, screenshots\S211.png
+[SKIP] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S212.htm - 404 Not Found
+[SKIP] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S213.htm - 404 Not Found
+[SKIP] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S214.htm - 404 Not Found
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S221.htm -> saved_pages\S221.txt, screenshots\S221.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S222.htm -> saved_pages\S222.txt, screenshots\S222.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S223.htm -> saved_pages\S223.txt, screenshots\S223.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S224.htm -> saved_pages\S224.txt, screenshots\S224.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S225.htm -> saved_pages\S225.txt, screenshots\S225.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S226.htm -> saved_pages\S226.txt, screenshots\S226.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S227.htm -> saved_pages\S227.txt, screenshots\S227.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S228.htm -> saved_pages\S228.txt, screenshots\S228.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S229.htm -> saved_pages\S229.txt, screenshots\S229.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S2210.htm -> saved_pages\S2210.txt, screenshots\S2210.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S2211.htm -> saved_pages\S2211.txt, screenshots\S2211.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S2212.htm -> saved_pages\S2212.txt, screenshots\S2212.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S2213.htm -> saved_pages\S2213.txt, screenshots\S2213.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S2214.htm -> saved_pages\S2214.txt, screenshots\S2214.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S2215.htm -> saved_pages\S2215.txt, screenshots\S2215.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S2216.htm -> saved_pages\S2216.txt, screenshots\S2216.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S2217.htm -> saved_pages\S2217.txt, screenshots\S2217.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S2218.htm -> saved_pages\S2218.txt, screenshots\S2218.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S2219.htm -> saved_pages\S2219.txt, screenshots\S2219.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S2220.htm -> saved_pages\S2220.txt, screenshots\S2220.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S2221.htm -> saved_pages\S2221.txt, screenshots\S2221.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S2222.htm -> saved_pages\S2222.txt, screenshots\S2222.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S2223.htm -> saved_pages\S2223.txt, screenshots\S2223.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S2224.htm -> saved_pages\S2224.txt, screenshots\S2224.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S2225.htm -> saved_pages\S2225.txt, screenshots\S2225.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S2226.htm -> saved_pages\S2226.txt, screenshots\S2226.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S2227.htm -> saved_pages\S2227.txt, screenshots\S2227.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S2228.htm -> saved_pages\S2228.txt, screenshots\S2228.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S2229.htm -> saved_pages\S2229.txt, screenshots\S2229.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S2230.htm -> saved_pages\S2230.txt, screenshots\S2230.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S2231.htm -> saved_pages\S2231.txt, screenshots\S2231.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S2232.htm -> saved_pages\S2232.txt, screenshots\S2232.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S2233.htm -> saved_pages\S2233.txt, screenshots\S2233.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S2234.htm -> saved_pages\S2234.txt, screenshots\S2234.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S2235.htm -> saved_pages\S2235.txt, screenshots\S2235.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S2236.htm -> saved_pages\S2236.txt, screenshots\S2236.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S2237.htm -> saved_pages\S2237.txt, screenshots\S2237.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S2238.htm -> saved_pages\S2238.txt, screenshots\S2238.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S2239.htm -> saved_pages\S2239.txt, screenshots\S2239.png
+[SKIP] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S2240.htm - 404 Not Found
+[SKIP] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S2241.htm - 404 Not Found
+[SKIP] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S2242.htm - 404 Not Found
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S231.htm -> saved_pages\S231.txt, screenshots\S231.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S232.htm -> saved_pages\S232.txt, screenshots\S232.png
+[SKIP] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S233.htm - 404 Not Found
+[SKIP] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S234.htm - 404 Not Found
+[SKIP] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S235.htm - 404 Not Found
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S241.htm -> saved_pages\S241.txt, screenshots\S241.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S242.htm -> saved_pages\S242.txt, screenshots\S242.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S243.htm -> saved_pages\S243.txt, screenshots\S243.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S244.htm -> saved_pages\S244.txt, screenshots\S244.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S245.htm -> saved_pages\S245.txt, screenshots\S245.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S246.htm -> saved_pages\S246.txt, screenshots\S246.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S247.htm -> saved_pages\S247.txt, screenshots\S247.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S248.htm -> saved_pages\S248.txt, screenshots\S248.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S249.htm -> saved_pages\S249.txt, screenshots\S249.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S2410.htm -> saved_pages\S2410.txt, screenshots\S2410.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S2411.htm -> saved_pages\S2411.txt, screenshots\S2411.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S2412.htm -> saved_pages\S2412.txt, screenshots\S2412.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S2413.htm -> saved_pages\S2413.txt, screenshots\S2413.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S2414.htm -> saved_pages\S2414.txt, screenshots\S2414.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S2415.htm -> saved_pages\S2415.txt, screenshots\S2415.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S2416.htm -> saved_pages\S2416.txt, screenshots\S2416.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S2417.htm -> saved_pages\S2417.txt, screenshots\S2417.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S2418.htm -> saved_pages\S2418.txt, screenshots\S2418.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S2419.htm -> saved_pages\S2419.txt, screenshots\S2419.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S2420.htm -> saved_pages\S2420.txt, screenshots\S2420.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S2421.htm -> saved_pages\S2421.txt, screenshots\S2421.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S2422.htm -> saved_pages\S2422.txt, screenshots\S2422.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S2423.htm -> saved_pages\S2423.txt, screenshots\S2423.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S2424.htm -> saved_pages\S2424.txt, screenshots\S2424.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S2425.htm -> saved_pages\S2425.txt, screenshots\S2425.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S2426.htm -> saved_pages\S2426.txt, screenshots\S2426.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S2427.htm -> saved_pages\S2427.txt, screenshots\S2427.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S2428.htm -> saved_pages\S2428.txt, screenshots\S2428.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S2429.htm -> saved_pages\S2429.txt, screenshots\S2429.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S2430.htm -> saved_pages\S2430.txt, screenshots\S2430.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S2431.htm -> saved_pages\S2431.txt, screenshots\S2431.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S2432.htm -> saved_pages\S2432.txt, screenshots\S2432.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S2433.htm -> saved_pages\S2433.txt, screenshots\S2433.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S2434.htm -> saved_pages\S2434.txt, screenshots\S2434.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S2435.htm -> saved_pages\S2435.txt, screenshots\S2435.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S2436.htm -> saved_pages\S2436.txt, screenshots\S2436.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S2437.htm -> saved_pages\S2437.txt, screenshots\S2437.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S2438.htm -> saved_pages\S2438.txt, screenshots\S2438.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S2439.htm -> saved_pages\S2439.txt, screenshots\S2439.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S2440.htm -> saved_pages\S2440.txt, screenshots\S2440.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S2441.htm -> saved_pages\S2441.txt, screenshots\S2441.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S2442.htm -> saved_pages\S2442.txt, screenshots\S2442.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S2443.htm -> saved_pages\S2443.txt, screenshots\S2443.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S2444.htm -> saved_pages\S2444.txt, screenshots\S2444.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S2445.htm -> saved_pages\S2445.txt, screenshots\S2445.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S2446.htm -> saved_pages\S2446.txt, screenshots\S2446.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S2447.htm -> saved_pages\S2447.txt, screenshots\S2447.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S2448.htm -> saved_pages\S2448.txt, screenshots\S2448.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S2449.htm -> saved_pages\S2449.txt, screenshots\S2449.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S2450.htm -> saved_pages\S2450.txt, screenshots\S2450.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S2451.htm -> saved_pages\S2451.txt, screenshots\S2451.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S2452.htm -> saved_pages\S2452.txt, screenshots\S2452.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S2453.htm -> saved_pages\S2453.txt, screenshots\S2453.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S2454.htm -> saved_pages\S2454.txt, screenshots\S2454.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S2455.htm -> saved_pages\S2455.txt, screenshots\S2455.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S2456.htm -> saved_pages\S2456.txt, screenshots\S2456.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S2457.htm -> saved_pages\S2457.txt, screenshots\S2457.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S2458.htm -> saved_pages\S2458.txt, screenshots\S2458.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S2459.htm -> saved_pages\S2459.txt, screenshots\S2459.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S2460.htm -> saved_pages\S2460.txt, screenshots\S2460.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S2461.htm -> saved_pages\S2461.txt, screenshots\S2461.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S2462.htm -> saved_pages\S2462.txt, screenshots\S2462.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S2463.htm -> saved_pages\S2463.txt, screenshots\S2463.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S2464.htm -> saved_pages\S2464.txt, screenshots\S2464.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S2465.htm -> saved_pages\S2465.txt, screenshots\S2465.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S2466.htm -> saved_pages\S2466.txt, screenshots\S2466.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S2467.htm -> saved_pages\S2467.txt, screenshots\S2467.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S2468.htm -> saved_pages\S2468.txt, screenshots\S2468.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S2469.htm -> saved_pages\S2469.txt, screenshots\S2469.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S2470.htm -> saved_pages\S2470.txt, screenshots\S2470.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S2471.htm -> saved_pages\S2471.txt, screenshots\S2471.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S2472.htm -> saved_pages\S2472.txt, screenshots\S2472.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S2473.htm -> saved_pages\S2473.txt, screenshots\S2473.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S2474.htm -> saved_pages\S2474.txt, screenshots\S2474.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S2475.htm -> saved_pages\S2475.txt, screenshots\S2475.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S2476.htm -> saved_pages\S2476.txt, screenshots\S2476.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S2477.htm -> saved_pages\S2477.txt, screenshots\S2477.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S2478.htm -> saved_pages\S2478.txt, screenshots\S2478.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S2479.htm -> saved_pages\S2479.txt, screenshots\S2479.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S2480.htm -> saved_pages\S2480.txt, screenshots\S2480.png
+[SKIP] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S2481.htm - 404 Not Found
+[SKIP] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S2482.htm - 404 Not Found
+[SKIP] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S2483.htm - 404 Not Found
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S251.htm -> saved_pages\S251.txt, screenshots\S251.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S252.htm -> saved_pages\S252.txt, screenshots\S252.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S253.htm -> saved_pages\S253.txt, screenshots\S253.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S254.htm -> saved_pages\S254.txt, screenshots\S254.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S255.htm -> saved_pages\S255.txt, screenshots\S255.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S256.htm -> saved_pages\S256.txt, screenshots\S256.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S257.htm -> saved_pages\S257.txt, screenshots\S257.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S258.htm -> saved_pages\S258.txt, screenshots\S258.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S259.htm -> saved_pages\S259.txt, screenshots\S259.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S2510.htm -> saved_pages\S2510.txt, screenshots\S2510.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S2511.htm -> saved_pages\S2511.txt, screenshots\S2511.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S2512.htm -> saved_pages\S2512.txt, screenshots\S2512.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S2513.htm -> saved_pages\S2513.txt, screenshots\S2513.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S2514.htm -> saved_pages\S2514.txt, screenshots\S2514.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S2515.htm -> saved_pages\S2515.txt, screenshots\S2515.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S2516.htm -> saved_pages\S2516.txt, screenshots\S2516.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S2517.htm -> saved_pages\S2517.txt, screenshots\S2517.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S2518.htm -> saved_pages\S2518.txt, screenshots\S2518.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S2519.htm -> saved_pages\S2519.txt, screenshots\S2519.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S2520.htm -> saved_pages\S2520.txt, screenshots\S2520.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S2521.htm -> saved_pages\S2521.txt, screenshots\S2521.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S2522.htm -> saved_pages\S2522.txt, screenshots\S2522.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S2523.htm -> saved_pages\S2523.txt, screenshots\S2523.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S2524.htm -> saved_pages\S2524.txt, screenshots\S2524.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S2525.htm -> saved_pages\S2525.txt, screenshots\S2525.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S2526.htm -> saved_pages\S2526.txt, screenshots\S2526.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S2527.htm -> saved_pages\S2527.txt, screenshots\S2527.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S2528.htm -> saved_pages\S2528.txt, screenshots\S2528.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S2529.htm -> saved_pages\S2529.txt, screenshots\S2529.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S2530.htm -> saved_pages\S2530.txt, screenshots\S2530.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S2531.htm -> saved_pages\S2531.txt, screenshots\S2531.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S2532.htm -> saved_pages\S2532.txt, screenshots\S2532.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S2533.htm -> saved_pages\S2533.txt, screenshots\S2533.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S2534.htm -> saved_pages\S2534.txt, screenshots\S2534.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S2535.htm -> saved_pages\S2535.txt, screenshots\S2535.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S2536.htm -> saved_pages\S2536.txt, screenshots\S2536.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S2537.htm -> saved_pages\S2537.txt, screenshots\S2537.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S2538.htm -> saved_pages\S2538.txt, screenshots\S2538.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S2539.htm -> saved_pages\S2539.txt, screenshots\S2539.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S2540.htm -> saved_pages\S2540.txt, screenshots\S2540.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S2541.htm -> saved_pages\S2541.txt, screenshots\S2541.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S2542.htm -> saved_pages\S2542.txt, screenshots\S2542.png
+[SKIP] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S2543.htm - 404 Not Found
+[SKIP] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S2544.htm - 404 Not Found
+[SKIP] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S2545.htm - 404 Not Found
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S261.htm -> saved_pages\S261.txt, screenshots\S261.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S262.htm -> saved_pages\S262.txt, screenshots\S262.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S263.htm -> saved_pages\S263.txt, screenshots\S263.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S264.htm -> saved_pages\S264.txt, screenshots\S264.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S265.htm -> saved_pages\S265.txt, screenshots\S265.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S266.htm -> saved_pages\S266.txt, screenshots\S266.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S267.htm -> saved_pages\S267.txt, screenshots\S267.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S268.htm -> saved_pages\S268.txt, screenshots\S268.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S269.htm -> saved_pages\S269.txt, screenshots\S269.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S2610.htm -> saved_pages\S2610.txt, screenshots\S2610.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S2611.htm -> saved_pages\S2611.txt, screenshots\S2611.png
+[SKIP] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S2612.htm - 404 Not Found
+[SKIP] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S2613.htm - 404 Not Found
+[SKIP] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S2614.htm - 404 Not Found
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S271.htm -> saved_pages\S271.txt, screenshots\S271.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S272.htm -> saved_pages\S272.txt, screenshots\S272.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S273.htm -> saved_pages\S273.txt, screenshots\S273.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S274.htm -> saved_pages\S274.txt, screenshots\S274.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S275.htm -> saved_pages\S275.txt, screenshots\S275.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S276.htm -> saved_pages\S276.txt, screenshots\S276.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S277.htm -> saved_pages\S277.txt, screenshots\S277.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S278.htm -> saved_pages\S278.txt, screenshots\S278.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S279.htm -> saved_pages\S279.txt, screenshots\S279.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S2710.htm -> saved_pages\S2710.txt, screenshots\S2710.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S2711.htm -> saved_pages\S2711.txt, screenshots\S2711.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S2712.htm -> saved_pages\S2712.txt, screenshots\S2712.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S2713.htm -> saved_pages\S2713.txt, screenshots\S2713.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S2714.htm -> saved_pages\S2714.txt, screenshots\S2714.png
+[SKIP] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S2715.htm - 404 Not Found
+[SKIP] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S2716.htm - 404 Not Found
+[SKIP] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S2717.htm - 404 Not Found
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S281.htm -> saved_pages\S281.txt, screenshots\S281.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S282.htm -> saved_pages\S282.txt, screenshots\S282.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S283.htm -> saved_pages\S283.txt, screenshots\S283.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S284.htm -> saved_pages\S284.txt, screenshots\S284.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S285.htm -> saved_pages\S285.txt, screenshots\S285.png
+[SKIP] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S286.htm - 404 Not Found
+[SKIP] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S287.htm - 404 Not Found
+[SKIP] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S288.htm - 404 Not Found
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S291.htm -> saved_pages\S291.txt, screenshots\S291.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S292.htm -> saved_pages\S292.txt, screenshots\S292.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S293.htm -> saved_pages\S293.txt, screenshots\S293.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S294.htm -> saved_pages\S294.txt, screenshots\S294.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S295.htm -> saved_pages\S295.txt, screenshots\S295.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S296.htm -> saved_pages\S296.txt, screenshots\S296.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S297.htm -> saved_pages\S297.txt, screenshots\S297.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S298.htm -> saved_pages\S298.txt, screenshots\S298.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S299.htm -> saved_pages\S299.txt, screenshots\S299.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S2910.htm -> saved_pages\S2910.txt, screenshots\S2910.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S2911.htm -> saved_pages\S2911.txt, screenshots\S2911.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S2912.htm -> saved_pages\S2912.txt, screenshots\S2912.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S2913.htm -> saved_pages\S2913.txt, screenshots\S2913.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S2914.htm -> saved_pages\S2914.txt, screenshots\S2914.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S2915.htm -> saved_pages\S2915.txt, screenshots\S2915.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S2916.htm -> saved_pages\S2916.txt, screenshots\S2916.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S2917.htm -> saved_pages\S2917.txt, screenshots\S2917.png
+[SKIP] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S2918.htm - 404 Not Found
+[SKIP] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S2919.htm - 404 Not Found
+[SKIP] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-S2920.htm - 404 Not Found
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-U011.htm -> saved_pages\U011.txt, screenshots\U011.png
+[SKIP] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-U012.htm - 404 Not Found
+[SKIP] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-U013.htm - 404 Not Found
+[SKIP] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-U014.htm - 404 Not Found
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-U021.htm -> saved_pages\U021.txt, screenshots\U021.png
+[SKIP] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-U022.htm - 404 Not Found
+[SKIP] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-U023.htm - 404 Not Found
+[SKIP] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-U024.htm - 404 Not Found
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-U031.htm -> saved_pages\U031.txt, screenshots\U031.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-U032.htm -> saved_pages\U032.txt, screenshots\U032.png
+[SKIP] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-U033.htm - 404 Not Found
+[SKIP] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-U034.htm - 404 Not Found
+[SKIP] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-U035.htm - 404 Not Found
+[SKIP] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-U041.htm - 404 Not Found
+[SKIP] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-U042.htm - 404 Not Found
+[SKIP] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-U043.htm - 404 Not Found
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-U051.htm -> saved_pages\U051.txt, screenshots\U051.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-U052.htm -> saved_pages\U052.txt, screenshots\U052.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-U053.htm -> saved_pages\U053.txt, screenshots\U053.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-U054.htm -> saved_pages\U054.txt, screenshots\U054.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-U055.htm -> saved_pages\U055.txt, screenshots\U055.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-U056.htm -> saved_pages\U056.txt, screenshots\U056.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-U057.htm -> saved_pages\U057.txt, screenshots\U057.png
+[SKIP] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-U058.htm - 404 Not Found
+[SKIP] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-U059.htm - 404 Not Found
+[SKIP] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-U0510.htm - 404 Not Found
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-U061.htm -> saved_pages\U061.txt, screenshots\U061.png
+[SKIP] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-U062.htm - 404 Not Found
+[SKIP] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-U063.htm - 404 Not Found
+[SKIP] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-U064.htm - 404 Not Found
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-U071.htm -> saved_pages\U071.txt, screenshots\U071.png
+[SKIP] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-U072.htm - 404 Not Found
+[SKIP] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-U073.htm - 404 Not Found
+[SKIP] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-U074.htm - 404 Not Found
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-U081.htm -> saved_pages\U081.txt, screenshots\U081.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-U082.htm -> saved_pages\U082.txt, screenshots\U082.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-U083.htm -> saved_pages\U083.txt, screenshots\U083.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-U084.htm -> saved_pages\U084.txt, screenshots\U084.png
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-U085.htm -> saved_pages\U085.txt, screenshots\U085.png
+[SKIP] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-U086.htm - 404 Not Found
+[SKIP] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-U087.htm - 404 Not Found
+[SKIP] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-U088.htm - 404 Not Found
+[OK] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-U091.htm -> saved_pages\U091.txt, screenshots\U091.png
+[SKIP] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-U092.htm - 404 Not Found
+[SKIP] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-U093.htm - 404 Not Found
+[SKIP] https://results.eci.gov.in/PcResultGenJune2024/candidateswise-U094.htm - 404 Not Found
