@@ -17,7 +17,12 @@ df = df.rename(columns={
     "status": "Status"
 })
 
-st.set_page_config(page_title="Election Results Dashboard", layout="wide")
+st.set_page_config(
+    page_title="Election Results Dashboard | Dinesh S. Kumawat | cln35h | 学習者",
+    layout="wide",
+    page_icon="favicon.ico"  # <-- add this line
+)
+
 st.title("🗳️ Election Results Analysis (2024)")
 st.markdown("Interactive dashboard to explore and visualize Indian parliamentary election results (2024) with detailed constituency and party insights. [Github↗](https://github.com/cln35h0/electionresult).")
 st.markdown("---")
